@@ -1,0 +1,5 @@
+# This allows vim commands to be used on CLI.
+# State begins in INSERT.
+set editing-mode vi
+set keymap vi-command
+set show-mode-in-prompt
